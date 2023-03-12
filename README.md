@@ -1,2 +1,1 @@
-Hii I'm Vinay. Glad to see you 
-This is git hub.
+Hii, I'm Vinay. I love to code.
